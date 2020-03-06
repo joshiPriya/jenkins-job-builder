@@ -8,9 +8,9 @@ allow_duplicates=False
 update=all
 
 [jenkins]
-user=jenkins
-password=1234567890abcdef1234567890abcdef
-url=https://jenkins.example.com
+user=admin
+password=11bd73d2acb08172604e7f901717eb613a
+url=http://10.100.90.182:8080/
 query_plugins_info=False
 ##### This is deprecated, use job_builder section instead
 #ignore_cache=True
