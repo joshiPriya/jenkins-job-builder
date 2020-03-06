@@ -1,0 +1,8 @@
+-job:
+    name: JJB-test
+     scm:
+       - git:
+           url:https://github.com/joshiPriya/Helloworld.git
+           branches:
+               master
+     
