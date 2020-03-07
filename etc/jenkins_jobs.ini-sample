@@ -9,8 +9,8 @@ update=all
 
 [jenkins]
 user=admin
-password=11bd73d2acb08172604e7f901717eb613a
-url=http://10.100.90.182:8080/
+password=1158b3d38ddaccfd1fff3f43de1a57c7a9
+url=http://10.100.90.206:8080/
 query_plugins_info=False
 ##### This is deprecated, use job_builder section instead
 #ignore_cache=True
